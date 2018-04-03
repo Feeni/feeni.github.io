@@ -150,6 +150,11 @@ hr.small {
 
 /* Header */
 
+#headshot {
+    height: 300px;
+    width: 300px;
+}
+
 .header {
     display: table;
     position: relative;
